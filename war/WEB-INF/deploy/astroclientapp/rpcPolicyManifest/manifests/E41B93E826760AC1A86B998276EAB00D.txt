@@ -1,0 +1,2 @@
+serviceClass: com.astro.client.app.client.GreetingService
+path: 93CDA9D982F22292B9FA3228F75A586F.gwt.rpc

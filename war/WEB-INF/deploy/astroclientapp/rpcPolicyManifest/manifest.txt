@@ -1,0 +1,3 @@
+# Module astroclientapp
+# RPC service class, partial path of RPC policy file
+com.astro.client.app.client.GreetingService, 93CDA9D982F22292B9FA3228F75A586F.gwt.rpc
